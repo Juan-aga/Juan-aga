@@ -1,8 +1,9 @@
 # Welcome to My GitHub Profile!
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=juan-aga&label=Visitors&labelColor=%232ccce4&countColor=%2337d67a&style=plastic) 
-![GitHub User's stars](https://img.shields.io/github/stars/juan-aga?&labelColor=%232ccce4&color=%2337d67a&style=plastic)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juan-aga&theme=transparent&show_icons=true&ring_color=F30808&hide_border=true&include_all_commits=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-aga&layout=donut&hide_border=true&ring_color=33FF61&langs_count=6&hide=Batchfile,GLSL)|
+|-|-|
 
 ## About Me
 
