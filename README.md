@@ -33,7 +33,7 @@ During the Bootcamp, I had the opportunity to **work on a variety of projects** 
 ## [42 Cursus](https://github.com/Juan-aga/42-Cursus)
 
 [![juan-aga's 42 stats](https://badge.mediaplus.ma/greenbinary/juan-aga?1337Badge=off&UM6P=off)](https://github.com/Juan-aga/42-Cursus) <!-- [//]: # (https://github.com/oakoudad/badge42) -->
-[![42 Project Score](https://42-project-badge.glitch.me/users/juan-aga/project/libft)](https://github.com/ricardoreves/42-project-badge)
+
 
 During my participation in the 42 cursus, I acquired the following knowledge and skills:
 
