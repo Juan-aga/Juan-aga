@@ -16,7 +16,7 @@ Here you will find a collection of my work and projects. Below are the **knowled
 
 ## [Bootcamp in Cybersecurity](https://github.com/Juan-aga/42-BootCamp_CyberSecurity)
 
-[![juan-aga's 42 stats](https://badge42.vercel.app/api/v2/cli8xz75i005408mh2tn5hewj/stats?cursusId=58&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+<!-- [![juan-aga's 42 stats](https://badge42.vercel.app/api/v2/cli8xz75i005408mh2tn5hewj/stats?cursusId=58&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42) -->
 
 
 During the Bootcamp, I had the opportunity to **work on a variety of projects** in a **dynamic and up-to-date cybersecurity environment**. Some of the notable projects I worked on include:
@@ -32,11 +32,12 @@ During the Bootcamp, I had the opportunity to **work on a variety of projects** 
 
 ## [42 Cursus](https://github.com/Juan-aga/42-Cursus)
 
-[![juan-aga's 42 stats](https://badge42.vercel.app/api/v2/cli8xz75i005408mh2tn5hewj/stats?cursusId=21&coalitionId=276)](https://github.com/JaeSeoKim/badge42)
+[![juan-aga's 42 stats](https://badge.mediaplus.ma/greenbinary/juan-aga?1337Badge=off&UM6P=off)](https://github.com/Juan-aga/42-Cursus) <!-- [//]: # (https://github.com/oakoudad/badge42) -->
+[![42 Project Score](https://42-project-badge.glitch.me/users/juan-aga/project/libft)](https://github.com/ricardoreves/42-project-badge)
 
 During my participation in the 42 cursus, I acquired the following knowledge and skills:
 
-- **C programming**.
+- **C and C++ programming**.
 - **Algorithm development** and **data structures**.
 - **Collaborative work** in **development environments**.
 - **Complex problem solving**.
