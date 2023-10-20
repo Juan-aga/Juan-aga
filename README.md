@@ -65,6 +65,8 @@ In progres...
 
 This project aims to inspect the source files of 42 School projects and verify whether they utilize prohibited functions.
 
+##
+
 Feel free to explore each project's repository for more details.
 
 Explore my projects in the linked repositories to get more details and see my progress as a programmer and in cybersecurity!
